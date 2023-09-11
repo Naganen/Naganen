@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Naganen
-- 👀 I’m interested in Game Development and Computer Hardware
-- 🌱 I’m currently learning C# and Unity
-- 📫 You can contact me on https://ngn.tr.ht
+- 👀 I’m interested in Game Development, Web Development and Computer Hardware
+- 🌱 I’m currently learning C#, Python, Javascript and Unity
+- 📫 You can contact me on https://akaimaple.com.tr
 
 <!---
 Naganen/Naganen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
