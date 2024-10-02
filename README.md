@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Naganen
 - 👀 I’m interested in Game Development, Web Development and Computer Hardware
-- 🌱 I’m currently learning C#, CSS, Javascript, PHP and Unity3D
+- 🌱 I’m currently learning C#, CSS, Bootstrap, Javascript, PHP and Unity3D
 - 📫 You can look into my projects and see my contact information at https://naganen.rf.gd
 
 <!---
