@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Naganen
 - 👀 I’m interested in Game Development, Web Development and Computer Hardware
-- 🌱 I’m currently learning C#, Javascript, NodeJS and React
+- 🌱 I’m currently learning C# and Unity
