@@ -14,7 +14,7 @@
 
 I’m interested in 🎮 **Game Development**, 🌐 **Web Development** and 💻 **Computer Hardware**<br>
 
-- 💼 Employed at 📞 **Gitasis Cloud Call Center Solutions** as 👩‍💻 **Juniour Software Developer** and 💻 **IT Manager**
+- 💼 Working as 👩‍💻 **Juniour Software Developer**
 - 🌱 Learning C# and Unity
 <br><br><br>
 <h1><b>
